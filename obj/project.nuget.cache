@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InyxQ6nSs6SFbWLLeoVLvmEfpcnhY5fgT0zttU4tWBqiiegBeKVHAJOBdmBkZqTiK+ar9bq7+ecq3wO/xvCtCg==",
+  "success": true,
+  "projectFilePath": "/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/MQTTDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonasw/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/jonasw/.nuget/packages/mqttnet/3.1.2/mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

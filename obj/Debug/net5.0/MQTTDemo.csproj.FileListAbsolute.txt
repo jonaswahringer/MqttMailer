@@ -1,0 +1,17 @@
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTDemo.deps.json
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTDemo.runtimeconfig.json
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTDemo.runtimeconfig.dev.json
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTDemo.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/ref/MQTTDemo.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTDemo.pdb
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/CommandLine.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/bin/Debug/net5.0/MQTTnet.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.csproj.AssemblyReference.cache
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.AssemblyInfoInputs.cache
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.AssemblyInfo.cs
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.csproj.CoreCompileInputs.cache
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/ref/MQTTDemo.dll
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.pdb
+/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/obj/Debug/net5.0/MQTTDemo.genruntimeconfig.cache
