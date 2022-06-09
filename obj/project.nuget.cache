@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "InyxQ6nSs6SFbWLLeoVLvmEfpcnhY5fgT0zttU4tWBqiiegBeKVHAJOBdmBkZqTiK+ar9bq7+ecq3wO/xvCtCg==",
+  "dgSpecHash": "agfjxqHnElhLfV2ki14l8K4wUIa4v+xEm9CBvkD70ZcOb85+ziaexoToD1RM7ZAFS4IP9yZh8fXuBF9uF52e5A==",
   "success": true,
   "projectFilePath": "/Users/jonasw/localdocs/4AHIT/sew/theorie/MQTTDemo/MQTTDemo/MQTTDemo.csproj",
   "expectedPackageFiles": [
     "/Users/jonasw/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
-    "/Users/jonasw/.nuget/packages/mqttnet/3.1.2/mqttnet.3.1.2.nupkg.sha512"
+    "/Users/jonasw/.nuget/packages/mqttnet/3.1.2/mqttnet.3.1.2.nupkg.sha512",
+    "/Users/jonasw/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/jonasw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jonasw/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/jonasw/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
