@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using CommandLine;
 
 
@@ -17,7 +18,7 @@ namespace MQTTDemo
         {
             [Option('v', "verbose", Required = false, HelpText = "Set output to verbose messages.")]
             public bool Verbose { get; set; }
-            [Option('h', "host", Required = true, HelpText = "Set Host for MQTT Client")]
+            [Option('o', "host", Required = true, HelpText = "Set Host for MQTT Client")]
             public string Host { get; set; }
             [Option('p', "port", Required = true, HelpText = "Specify Port number for MQTT Client")]
             public int Port { get; set; }
@@ -64,14 +65,17 @@ namespace MQTTDemo
                            Console.WriteLine("Quick Start Example!");
                        }
                    });
-            
-            Console.WriteLine(MqttPort);
-            Console.WriteLine(MqttPort.GetType());
 
             MqttClient mqttClient = new MqttClient();
             mqttClient.Init(MqttHost, MqttPort, MqttClientId, MqttDestinationEmail);
 
             Console.Read();
+
+            var publisher = new MqttPublisher();
+            publisher.PublishMessages();
+
+            Console.Read();
         }
+
     }
 }

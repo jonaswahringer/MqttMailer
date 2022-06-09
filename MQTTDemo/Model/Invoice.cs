@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace MQTTDemo.Model
 {
@@ -12,6 +13,7 @@ namespace MQTTDemo.Model
         public DateTime InvoiceDate { get; set; }
         public int Vat { get; set; }
 
+        [JsonIgnore]
         public ICollection<InvoicePosition> Positions { get; set; } = new List<InvoicePosition>(); //Referenz auf die Rechnungsposition
     }
 }

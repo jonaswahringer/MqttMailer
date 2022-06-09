@@ -1,4 +1,6 @@
 ﻿using System;
+using Newtonsoft.Json;
+
 namespace MQTTDemo.Model
 {
     class InvoicePosition //n-Seite
@@ -15,6 +17,8 @@ namespace MQTTDemo.Model
         }
 
         public int InvoiceId { get; set; }             // FK der Rechung
+
+        [JsonIgnore]
         public InvoicePosition Invoice { get; set; }     // Referenz auf die Rechnung
 
     }
